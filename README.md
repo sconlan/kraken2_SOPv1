@@ -7,6 +7,10 @@ The material embodied in this repository is provided to you "as-is" and without 
 
 Disclaimer modified from: https://github.com/CDCgov/template/blob/master/DISCLAIMER.md
 
+## Dependencies and Versions
+
+kraken 2.0.8-beta
+
 ## Introduction
 
 Kraken2 is one of many tools available for classifying metagenomic reads. It is part of a family of software including:
